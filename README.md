@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hello, I am Yogi Makadiya! Currently exploring the intersection of Computer Engineering and Cybersecurity. I am on a quest to blend innovative software development with the critical world of digital security, driven by my motto: 'Always be a Learner.'
 
 
