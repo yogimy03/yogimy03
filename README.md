@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **yogimakadiya3@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1GUw6wrGNgtgViMNR4gGEWeXmfkz-jfIM/view?usp=sharing">Know about me</a>
+- 📄 <a href="https://drive.google.com/file/d/1GUw6wrGNgtgViMNR4gGEWeXmfkz-jfIM/view?usp=sharing">Know more about me</a>
 
 
 ## 🌐 Connect With Me:
