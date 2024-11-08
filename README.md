@@ -1,6 +1,10 @@
 #  About Me:
 👋 Hello, I am Yogi Makadiya! Currently exploring the intersection of Computer Engineering and Cybersecurity. I am on a quest to blend innovative software development with the critical world of digital security, driven by my motto: 'Always be a Learner.'
 
+- 👨‍💻 All of my projects are available at https://yogimy03.github.io
+
+- 📫 How to reach me **yogimakadiya3@gmail.com**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogibm)
