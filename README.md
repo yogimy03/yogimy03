@@ -8,12 +8,10 @@
 - 📄 <a href="https://drive.google.com/file/d/1GUw6wrGNgtgViMNR4gGEWeXmfkz-jfIM/view?usp=sharing">Know more about me</a>
 
 &nbsp;
-&nbsp;
 
 # Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogibm)
 
-&nbsp;
 &nbsp;
 
 # Technical Skills:
