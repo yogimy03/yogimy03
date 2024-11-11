@@ -1,9 +1,9 @@
 #  About Me:
 👋 Hello, I am Yogi Makadiya! Currently exploring the intersection of Computer Engineering and Cybersecurity. I am on a quest to blend innovative software development with the critical world of digital security, driven by my motto: 'Always be a Learner.'
 
-- 👨‍💻 All of my projects are available at https://yogimy03.github.io
+- 👨‍💻 All of my projects are available at: https://yogimy03.github.io
 
-- 📫 How to reach me **yogimakadiya3@gmail.com**
+- 📫 How to reach me: **yogimakadiya3@gmail.com**
 
 - 📄 <a href="https://drive.google.com/file/d/1GUw6wrGNgtgViMNR4gGEWeXmfkz-jfIM/view?usp=sharing">Know more about me</a>
 
