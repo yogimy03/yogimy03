@@ -1,21 +1,101 @@
-#  About Me:
-👋 Hello, I am Yogi Makadiya! Currently exploring the intersection of Computer Engineering and Cybersecurity. I am on a quest to blend innovative software development with the critical world of digital security, driven by my motto: 'Always be a Learner.'
+<h1 align="center">Hi, I'm Yogi 👋</h1>
 
-- 👨‍💻 All of my projects are available at: **https://yogimy03.github.io**
+<p align="center"><b>I build software. Then I try to break it before someone else does.</b></p>
 
-- 📫 How to reach me: **yogimakadiya3@gmail.com**
+<p align="center">
+Software engineer with an M.Eng in Cybersecurity from the University of Maryland.<br>
+I ship production features and harden the pipelines that ship them.<br>
+Most people pick a side between building and securing. I never understood why you would.
+</p>
 
-- 📄 Know more about me: <a href="https://drive.google.com/file/d/1GUw6wrGNgtgViMNR4gGEWeXmfkz-jfIM/view?usp=sharing">**Resume**</a>
+<p align="center">
+<a href="https://yogimy03.github.io"><img src="https://img.shields.io/badge/Portfolio-yogimy03.github.io-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/yogibm"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:yogimakadiya3@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-# Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogibm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://yogimy03.github.io)
-
-# Technical Skills:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<p align="center">
+📄 <b>Resume?</b> It lives on my <a href="https://yogimy03.github.io">portfolio</a>, in two editions: one for software roles, one for security. Flip the lens and grab whichever fits.
+</p>
 
 ---
-![](https://komarev.com/ghpvc/?username=yogimy03&color=blue)
 
+## What I actually do
 
+🔵 **Build** &nbsp; Ship full stack features end to end. React and Node on top, Python and REST APIs in the middle, real databases underneath, and CI/CD on AWS that delivers it all without a human babysitting the release.
 
+🟢 **Break** &nbsp; Threat model before the first line of code. Run security reviews and pentests, wire scanning gates that catch bugs before they reach production, and handle incident response when production decides to page at the worst possible hour.
+
+The interesting work is the seam between the two, and that is where I like to live.
+
+## Right now
+
+- 🛠️ **Software Engineer (DevSecOps) at CuraJoy**, owning features from design to deploy and keeping the platform secure as it grows
+- 🤖 Building **AI agents that make security review faster** without drowning people in false alarms
+- 📚 Two published papers on **IoT security and forensics** (IEEE and Springer)
+- 🎓 **Phi Kappa Phi** inductee, **ISC2 Graduate Scholarship** recipient
+
+## Toolbox
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**Frameworks**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Cloud and DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Security and Tooling**
+
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-0E7C5B?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-0E7C5B?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-0E7C5B?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0E7C5B?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-0E7C5B?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-0E7C5B?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-0E7C5B?style=for-the-badge&logo=splunk&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-0E7C5B?style=for-the-badge)
+
+## Published research
+
+- **IoT Forensics System based on Blockchain** &middot; IEEE INDIACom 2023
+- **Exploring Cyber Security Issues in the Internet of Healthcare Things (IoHT)** &middot; Springer ICTCS 2022
+
+## A peek at the numbers
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yogimy03&show_icons=true&hide_border=true&theme=tokyonight&icon_color=8A2BE2&title_color=8A2BE2" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogimy03&layout=compact&hide_border=true&theme=tokyonight&title_color=8A2BE2" alt="Top languages">
+</p>
+
+---
+
+<p align="center">
+<i>Curious how a resume can run like an API? <a href="https://yogimy03.github.io">Open the portfolio and send a request.</a></i><br><br>
+<img src="https://komarev.com/ghpvc/?username=yogimy03&color=8A2BE2&style=flat-square&label=profile+views" alt="profile views">
+</p>
