@@ -86,12 +86,6 @@ The interesting work is the seam between the two, and that is where I like to li
 - **IoT Forensics System based on Blockchain** &middot; IEEE INDIACom 2023
 - **Exploring Cyber Security Issues in the Internet of Healthcare Things (IoHT)** &middot; Springer ICTCS 2022
 
-## A peek at the numbers
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yogimy03&show_icons=true&hide_border=true&theme=tokyonight&icon_color=8A2BE2&title_color=8A2BE2" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogimy03&layout=compact&hide_border=true&theme=tokyonight&title_color=8A2BE2" alt="Top languages">
-</p>
 
 ---
 
